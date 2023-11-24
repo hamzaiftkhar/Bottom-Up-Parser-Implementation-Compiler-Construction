@@ -4,7 +4,7 @@
 - Write a program that can compute the first sets, for inputgrammar.
 - Write a program that can compute the follow sets, for input grammar. 
 
-- ### [Solution Task-1](https://github.com/hamzaiftkhar/Bottom-Up-Parser-Implementation-Compiler-Construction/tree/main/Question-1)
+- ### [Solution Task-1](https://github.com/hamzaiftkhar/Bottom-Up-Parser-Implementation-Compiler-Construction/tree/main/Question-1%20(First%20and%20Follow))
 
 ## Task-2:
 - Write a program to create canonical collection of LR(0) items
@@ -13,7 +13,7 @@
 
 - Write a program to implement the parsing table of SLR(1) Parser
 
-- ### [Solution Task-2](https://github.com/hamzaiftkhar/Bottom-Up-Parser-Implementation-Compiler-Construction/tree/main/Question-2)
+- ### [Solution Task-2](https://github.com/hamzaiftkhar/Bottom-Up-Parser-Implementation-Compiler-Construction/tree/main/Question-2%20(%20LR0%20and%20SLR))
 
 ## Task-3:
 
