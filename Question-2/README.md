@@ -91,7 +91,7 @@ int main() {
 
 ## Contributing
 
-- [Muhammad Hasnain - 21-CS-45]()
+- [Muhammad Hasnain - 21-CS-96]()
 - [Hamza Iftikhar - 21-CS-45]()
 
 If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
