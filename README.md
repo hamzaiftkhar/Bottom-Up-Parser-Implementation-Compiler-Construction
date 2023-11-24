@@ -40,7 +40,7 @@ F->F*/a/b
 Is this grammar LR(0) or SLR(1)? Why?
 Verify your answers using the implementations of yours in Task 2. Attach a snippet of your results from your implementation.
 
-- ### [Solution Task-4]()
+- ### [Solution Task-4](https://github.com/hamzaiftkhar/Bottom-Up-Parser-Implementation-Compiler-Construction/tree/main/Question-4%20(LR0%20and%20SLR%20implementation))
 
 ## Task-5:
 
@@ -57,4 +57,16 @@ E->e/epsilon
 
 Verify  your  answers  using  the  implementations of  yours  in  Task 3.  Attach a  snippet  of your resultsfrom your implementation.
 
-### [Solution Task-5]()
+### [Solution Task-5](https://github.com/hamzaiftkhar/Bottom-Up-Parser-Implementation-Compiler-Construction/tree/main/Question-5%20%20(CLR%20and%20LALR%20implementation))
+
+## Contributions
+
+- [Muhammad Hasnain - 21-CS-96  (Task-1,2)]()
+- [Hamza Iftikhar - 21-CS-45   (Task-2,3,4)]()
+- [Zunysha Naveed 21-CS-75   (Task-4,5)]()
+
+University of Engineering and Technology Taxila
+
+- [UET Taxila - Department of computer Science](https://www.uettaxila.edu.pk/)
+- [Course : Compiler Construction]()
+- [Course Instructor : DR ABID RAUF]()
